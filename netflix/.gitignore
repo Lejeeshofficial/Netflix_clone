@@ -45,4 +45,4 @@ app.*.map.json
 
 
 #gitignot
-netflix\lib\infrastructure\api_key\api_key.dart
+lib/infrastructure/api_key/api_key.dart
